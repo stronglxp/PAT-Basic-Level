@@ -1,6 +1,7 @@
 # PAT乙级真题源码
 ### 边做边更新，技术渣，做的慢。
-|ID   |title         |Java     |
+## 仅在牛客网上1000ms限制范围内通过，PAT官网貌似不给过==
+|ID   |title         |Java     |
 |-------|--------------|--------|
 |1001|A+B和C (15)|[查看源码](https://github.com/stronglxp/PAT_Basic_Level/blob/master/A_add_B_and_C.java)|
 |1002|数字分类 (20)|[查看源码](https://github.com/stronglxp/PAT_Basic_Level/blob/master/%E6%95%B0%E5%AD%97%E5%88%86%E7%B1%BB.java)|
